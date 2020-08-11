@@ -6,13 +6,21 @@ body {
 #pink {
   background-color: #de3490;
 }
-
-
+#red {
+  background-color: #de343d;
+}
+#purple {
+  background-color: #d734de;
+}
+#green {
+  background-color: #34de82;
+}
 h1 {
   color: navy;
+  
 }
 
-
+body
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
 .header {
