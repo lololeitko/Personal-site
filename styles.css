@@ -17,10 +17,14 @@ body {
 }
 h1 {
   color: navy;
+
+}
+body{
+  color: black;
   
 }
 
-body
+
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
 .header {
