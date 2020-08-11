@@ -1,9 +1,12 @@
 /*TODO: Add a background color or image to your website*/
 
-
-#pink {
-  background-color: #de3490
+body {
+  background-color: #3490de;
 }
+#pink {
+  background-color: #de3490;
+}
+
 
 h1 {
   color: navy;
@@ -13,7 +16,7 @@ h1 {
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
 .header {
-  background-color: #3490de
+  background-color: #3490de;
 
 }
 
